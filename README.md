@@ -35,7 +35,7 @@
 
 ## Instalation
 
-Place all files from src folder into esphome folder of your home assistant. Edit display.yaml file according to your configuration, for example wi-fi and ota fields. Replace entities from home assistant with your own (entity_id).
+Place all files from src folder into esphome folder of your home assistant. (But the content of src/weather folder into esphome/img/weather folder). Edit display.yaml file according to your configuration, for example wi-fi and ota fields. Replace entities from home assistant with your own (entity_id).
 
 ## Future upcoming updates
 - Show/hide sensor on the main screen, configurable from the settings menu
